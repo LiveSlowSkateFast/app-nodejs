@@ -103,7 +103,6 @@ export default class ReviewService {
 
     return toNativeTypes(movie)
 
-    return goodfellas
   }
   // end::add[]
 
